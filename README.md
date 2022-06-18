@@ -1,1 +1,2 @@
 # odin-recipes
+This project demonstrates basic HTML knowledge and demonstrates the ability to set up a proper web project. The main points it shows are the proper usage of internal links, images and lists. Also it shares some amazing recipes with the viewer! Enjoy!
